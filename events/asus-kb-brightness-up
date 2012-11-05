@@ -1,0 +1,2 @@
+event=hotkey (ATK0100:00|HOTK) 000000c4
+action=/etc/acpi/asus-kb-brightness-up.sh

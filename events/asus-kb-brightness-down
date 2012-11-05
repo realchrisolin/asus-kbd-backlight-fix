@@ -1,0 +1,2 @@
+event=hotkey (ATK0100:00|HOTK) 000000c5
+action=/etc/acpi/asus-kb-brightness-down.sh

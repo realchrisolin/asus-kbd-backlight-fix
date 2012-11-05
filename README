@@ -1,0 +1,4 @@
+Fixes issues with Asus laptop's where the keyboard backlight flickers during
+suspend/hibernate.
+
+See http://blog.chrisolin.com/?p=386 for additional info.
